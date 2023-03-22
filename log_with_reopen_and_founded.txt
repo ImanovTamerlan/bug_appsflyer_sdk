@@ -1,0 +1,84 @@
+2023-03-23 00:46:15.676871+0600 ExampleAppsFlyer[24954:8217679] [AppsFlyerSDK] [com.appsflyer.serial] Start
+2023-03-23 00:46:15.677179+0600 ExampleAppsFlyer[24954:8217679] [AppsFlyerSDK] [com.appsflyer.serial] [CLS] ASIdentifierManager not found
+2023-03-23 00:46:15.677256+0600 ExampleAppsFlyer[24954:8217486] [AppsFlyerSDK] [com.appsflyer.serial] [CLS] ADClient not found
+2023-03-23 00:46:15.677330+0600 ExampleAppsFlyer[24954:8217679] [AppsFlyerSDK] [com.appsflyer.serial] [CLS] FBSDKAppEventsUtility not found
+2023-03-23 00:46:15.677438+0600 ExampleAppsFlyer[24954:8217679] [AppsFlyerSDK] [com.appsflyer.serial] isFirstLaunch: No, timestamp: 1679150517.775341
+2023-03-23 00:46:15.677557+0600 ExampleAppsFlyer[24954:8217486] [AppsFlyerSDK] [com.appsflyer.serial] Time from last launch(session) 3.170781
+2023-03-23 00:46:15.677700+0600 ExampleAppsFlyer[24954:8217486] [AppsFlyerSDK] [com.appsflyer.serial] Skip launch
+2023-03-23 00:47:02.560903+0600 ExampleAppsFlyer[24954:8217790] [AppsFlyerSDK] [com.appsflyer.serial] Start
+2023-03-23 00:47:02.560988+0600 ExampleAppsFlyer[24954:8217790] [AppsFlyerSDK] [com.appsflyer.serial] [CLS] ASIdentifierManager not found
+2023-03-23 00:47:02.561070+0600 ExampleAppsFlyer[24954:8217790] [AppsFlyerSDK] [com.appsflyer.serial] [CLS] ADClient not found
+2023-03-23 00:47:02.561118+0600 ExampleAppsFlyer[24954:8217790] [AppsFlyerSDK] [com.appsflyer.serial] [CLS] FBSDKAppEventsUtility not found
+2023-03-23 00:47:02.561158+0600 ExampleAppsFlyer[24954:8217790] [AppsFlyerSDK] [com.appsflyer.serial] isFirstLaunch: No, timestamp: 1679150517.775341
+2023-03-23 00:47:02.561227+0600 ExampleAppsFlyer[24954:8217790] [AppsFlyerSDK] [com.appsflyer.serial] Time from last launch(session) 50.054824
+2023-03-23 00:47:02.561290+0600 ExampleAppsFlyer[24954:8218292] [AppsFlyerSDK] [com.appsflyer.serial] `start` since background transition
+2023-03-23 00:47:02.561331+0600 ExampleAppsFlyer[24954:8218292] [AppsFlyerSDK] [com.appsflyer.serial] `appsFlyerDevKey`: K*****m
+2023-03-23 00:47:02.563764+0600 ExampleAppsFlyer[24954:8218292] [AppsFlyerSDK] [com.appsflyer.serial] Looking for previous version date
+2023-03-23 00:47:02.563890+0600 ExampleAppsFlyer[24954:8218292] [AppsFlyerSDK] [com.appsflyer.serial] Current cached application version: 1.0, new version: 1.0
+2023-03-23 00:47:02.564089+0600 ExampleAppsFlyer[24954:8218292] [AppsFlyerSDK] [com.appsflyer.serial] Use date3 from storage
+2023-03-23 00:47:02.564201+0600 ExampleAppsFlyer[24954:8218292] [AppsFlyerSDK] [com.appsflyer.serial] date1: 2023-03-18_204116+0600
+2023-03-23 00:47:02.564296+0600 ExampleAppsFlyer[24954:8218292] [AppsFlyerSDK] [com.appsflyer.serial] date2: 2023-03-23_004542+0600
+2023-03-23 00:47:02.564356+0600 ExampleAppsFlyer[24954:8218292] [AppsFlyerSDK] [com.appsflyer.serial] date3: 2023-03-18_204116+0600
+2023-03-23 00:47:02.564414+0600 ExampleAppsFlyer[24954:8218292] [AppsFlyerSDK] [com.appsflyer.serial] First launch date: 2023-03-18_204157+0600
+2023-03-23 00:47:02.564513+0600 ExampleAppsFlyer[24954:8218419] [AppsFlyerSDK] [com.appsflyer.serial] [SKAd] Times out. sk_exp = 1679236919.110526
+2023-03-23 00:47:02.564675+0600 ExampleAppsFlyer[24954:8218419] [AppsFlyerSDK] [com.appsflyer.serial] Denied/Restricted
+2023-03-23 00:47:02.564777+0600 ExampleAppsFlyer[24954:8218292] [AppsFlyerSDK] [afsdk-buffer-serial] [CACHE] Deleting file: /var/mobile/Containers/Data/Application/A2C00654-7AB3-483E-8D7E-54CD5947B973/Library/Caches/appsflyer-v1/701001307.0358.plist
+2023-03-23 00:47:02.564828+0600 ExampleAppsFlyer[24954:8218292] [AppsFlyerSDK] [com.appsflyer.serial] [CACHE] Caching request...(cache size: 37)
+2023-03-23 00:47:02.565198+0600 ExampleAppsFlyer[24954:8218419] [AppsFlyerSDK] [afsdk-buffer-serial] [HTTP] Dealloc. CANCELLED: `576-1679308506.994786`
+2023-03-23 00:47:02.565279+0600 ExampleAppsFlyer[24954:8218292] [AppsFlyerSDK] [afsdk-buffer-serial] [HTTP] Dealloc. CANCELLED: `Config-1`
+2023-03-23 00:47:02.572252+0600 ExampleAppsFlyer[24954:8218291] [AppsFlyerSDK] [com.appsflyer.serial] [HTTP] Operation start: `OneLink-7817A97B-47C5-4C95-B9E2-BDC5C48320E1`
+2023-03-23 00:47:02.573254+0600 ExampleAppsFlyer[24954:8218404] [AppsFlyerSDK] [com.appsflyer.serial] UniversalLink/Deeplink found:
+https://click.tele2.kz/2sDW/fssm
+2023-03-23 00:47:02.574122+0600 ExampleAppsFlyer[24954:8218291] [AppsFlyerSDK] [com.appsflyer.serial] Validate custom domain URLs: (
+    "click.tele2.kz"
+)
+2023-03-23 00:47:02.574516+0600 ExampleAppsFlyer[24954:8218404] [AppsFlyerSDK] [com.appsflyer.serial] Shortlink found. Executing: https://onelink.appsflyer.com/shortlink-sdk/v2/2sDW?id=fssm
+2023-03-23 00:47:02.574787+0600 ExampleAppsFlyer[24954:8218291] [AppsFlyerSDK] [afsdk-buffer-serial] [CACHE] Deleting file: /var/mobile/Containers/Data/Application/A2C00654-7AB3-483E-8D7E-54CD5947B973/Library/Caches/appsflyer-v1/701001396.9730.plist
+2023-03-23 00:47:02.574878+0600 ExampleAppsFlyer[24954:8218404] [AppsFlyerSDK] [afsdk-buffer-serial] [HTTP] Dealloc. CANCELLED: `576-1679308596.928341`
+2023-03-23 00:47:02.575950+0600 ExampleAppsFlyer[24954:8218291] [AppsFlyerSDK] [afsdk-buffer-serial] [HTTP] Dealloc. Time elapsed for: `OneLink-7817A97B-47C5-4C95-B9E2-BDC5C48320E1` - 0.001524925231933594
+2023-03-23 00:47:02.575999+0600 ExampleAppsFlyer[24954:8218404] [AppsFlyerSDK] [com.appsflyer.serial] [HTTP] Operation start: `576-1679308733.371415`
+2023-03-23 00:47:02.576076+0600 ExampleAppsFlyer[24954:8218404] [AppsFlyerSDK] [com.appsflyer.serial] 
+
+<~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~~+~>
+<~+~   SEND Start:   https://launches.appsflyer.com/api/v6.10/iosevent?app_id=1541641406&buildnumber=6.10.0&timeincache=202021.1860&isCachedRequest=true
+<~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~~+~>
+
+{"advertiserIdEnabled":false,"firstLaunchDate":"2023-03-18_204157+0600","isBrandedDomain":true,"event":"Launched","load_framework_result":"Denied\/Restricted","cell":{"mcc":"999","mnc":"99","ra":"af_restricted"},"timepassedsincelastlaunch":"136","ref":"db7329eef4753e02f2f61ae54182f260365b4da62dc7cab86fc41cde012bd3f8;0;0;0;0;0","systemversion":"16.2","platform":"iPhone15,2","prev_session_dur":8,"disk":"999\/9999","af_timestamp":"1679308733371","platformextension":"ios_native","date1":"2023-03-18_204116+0600","cksm_v2":"26525542acbe5049591b0c4f1b0d401b0c481b0d4e1a","wifi":false,"serverApiVersion":"6.10","att_status":2,"currentLanguage":"","JBDevice":false,"localizedmodel":"iPhone","eventvalue":"","bundleIdentifier":"kz.tele2.alpha","deviceData":{"cpu_type":"ARM64","cpu_speed":"-1","brightness":"0.650000","cpu_64bits":"true","dim":{"y_px":2556,"x_px":1179},"osVersion":"99.9 (Build 99999)","ram_size":"999","device_model":"iPhone15,2","cpu_count":"9"},"date2":"2023-03-20_163636+0600","currentCountrycode":"US","sk_rules":{"sk_exp":1679236919.1105261,"sk_rules":{"wi":24,"ex":1,"di":1}},"shortbundleversion":"1.0","systemname":"iOS","iaecounter":"0","af_iad_data":{"error":"ADClientErrorTrackingRestrictedOrDenied"},"af_events_api":"1","sc_o":"unknown","open_referrer":"","af_deeplink":"https:\/\/click.tele2.kz\/2sDW\/fssm","uid":"1679150476740-9135364","dev_key":"K*****m","vendorId":"9CAC135F-ED36-4A55-8491-F8086B55545C","counter":"3","ivc":false,"date1_2":"2023-03-18_204116+0600","reinstallCounter":"7","timestamp":"1679308733.371415","sessioncounter":"9","date3":"2023-03-18_204116+0600","originalAppsflyerId":"1679150476740-9135364","model":"iPhone","bundlename":"","advertiserId":"","eventName":"Launched","bundleversion":"1","meta":{"host":{"name":"appsflyer.com","prefix":""}}}
+
+<~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~~+~>
+2023-03-23 00:47:02.874704+0600 ExampleAppsFlyer[24954:8218291] [AppsFlyerSDK] [com.appsflyer.serial]                        
+[Shortlink] OneLink:{
+    "af_dp" = "https://tele2.kz";
+    "af_xp" = social;
+    c = "first_stories_soc_media_cvm";
+    campaign = "first_stories_soc_media_cvm";
+    "deep_link_value" = showFirstStories;
+    "is_retargeting" = true;
+    "media_source" = "social_media";
+    pid = "social_media";
+}                       
+[Shortlink] Response Info:{
+    data = {length = 232, bytes = 0x7b226973 5f726574 61726765 74696e67 ... 5f6d6564 6961227d };
+    dataStr = "{\"is_retargeting\":\"true\",\"af_dp\":\"https://tele2.kz\",\"c\":\"first_stories_soc_media_cvm\",\"pid\":\"social_media\",\"deep_link_value\":\"showFirstStories\",\"campaign\":\"first_stories_soc_media_cvm\",\"af_xp\":\"social\",\"media_source\":\"social_media\"}";
+    retries = 0;
+    statusCode = 200;
+    taskIdentifier = 6;
+}                       
+[Shortlink] Error: (null)
+2023-03-23 00:47:02.874841+0600 ExampleAppsFlyer[24954:8218292] [AppsFlyerSDK] [com.appsflyer.serial] [DDL] Calling didResolveDeepLink with: {"af_sub4":null,"click_http_referrer":null,"af_sub1":null,"click_event":{"af_xp":"social","campaign":"first_stories_soc_media_cvm","af_dp":"https:\/\/tele2.kz","deep_link_value":"showFirstStories","media_source":"social_media"},"af_sub3":null,"deep_link_value":"showFirstStories","campaign":"first_stories_soc_media_cvm","match_type":null,"af_sub5":null,"media_source":"social_media","campaign_id":null,"af_sub2":null}
+2023-03-23 00:47:32.801524+0600 ExampleAppsFlyer[24954:8218292] [tcp] tcp_output [C8.1.1.1:3] flags=[R.] seq=1809098237, ack=3939914573, win=2052 state=CLOSED rcv_nxt=3939914573, snd_una=1809097720
+2023-03-23 00:47:32.804841+0600 ExampleAppsFlyer[24954:8218292] Connection 8: received failure notification
+2023-03-23 00:47:32.805078+0600 ExampleAppsFlyer[24954:8218292] Connection 8: failed to connect 3:-9816, reason -1
+2023-03-23 00:47:32.805141+0600 ExampleAppsFlyer[24954:8218292] Connection 8: encountered error(3:-9816)
+2023-03-23 00:47:32.806124+0600 ExampleAppsFlyer[24954:8218292] Task <22210126-35F1-4CF6-B2EA-69F7608459EC>.<7> HTTP load failed, 0/0 bytes (error code: -1200 [3:-9816])
+2023-03-23 00:47:32.806773+0600 ExampleAppsFlyer[24954:8218292] Task <22210126-35F1-4CF6-B2EA-69F7608459EC>.<7> finished with error [-1200] Error Domain=NSURLErrorDomain Code=-1200 "An SSL error has occurred and a secure connection to the server cannot be made." UserInfo={NSErrorFailingURLStringKey=https://launches.appsflyer.com/api/v6.10/iosevent?app_id=1541641406&buildnumber=6.10.0&timeincache=202021.1860&isCachedRequest=true, NSLocalizedRecoverySuggestion=Would you like to connect to the server anyway?, _kCFStreamErrorDomainKey=3, _NSURLErrorFailingURLSessionTaskErrorKey=LocalDataTask <22210126-35F1-4CF6-B2EA-69F7608459EC>.<7>, _NSURLErrorRelatedURLSessionTaskErrorKey=(
+    "LocalDataTask <22210126-35F1-4CF6-B2EA-69F7608459EC>.<7>"
+), NSLocalizedDescription=An SSL error has occurred and a secure connection to the server cannot be made., NSErrorFailingURLKey=https://launches.appsflyer.com/api/v6.10/iosevent?app_id=1541641406&buildnumber=6.10.0&timeincache=202021.1860&isCachedRequest=true, NSUnderlyingError=0x2802a0960 {Error Domain=kCFErrorDomainCFNetwork Code=-1200 "(null)" UserInfo={_kCFStreamPropertySSLClientCertificateState=0, _kCFNetworkCFStreamSSLErrorOriginalValue=-9816, _kCFStreamErrorDomainKey=3, _kCFStreamErrorCodeKey=-9816, _NSURLErrorNWPathKey=satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, dns}}, _kCFStreamErrorCodeKey=-9816}
+2023-03-23 00:47:32.807503+0600 ExampleAppsFlyer[24954:8217790] [AppsFlyerSDK] [com.appsflyer.serial] [HTTP] 
+Result: {
+    taskIdentifier = 7;
+}                
+Error: Error Domain=com.appsflyer.sdk.network Code=0 "Request failed" UserInfo={NSLocalizedDescription=Request failed, NSUnderlyingError=0x280264960 {Error Domain=NSURLErrorDomain Code=-1200 "An SSL error has occurred and a secure connection to the server cannot be made." UserInfo={NSErrorFailingURLStringKey=https://launches.appsflyer.com/api/v6.10/iosevent?app_id=1541641406&buildnumber=6.10.0&timeincache=202021.1860&isCachedRequest=true, NSLocalizedRecoverySuggestion=Would you like to connect to the server anyway?, _kCFStreamErrorDomainKey=3, _NSURLErrorFailingURLSessionTaskErrorKey=LocalDataTask <22210126-35F1-4CF6-B2EA-69F7608459EC>.<7>, _NSURLErrorRelatedURLSessionTaskErrorKey=(
+    "LocalDataTask <22210126-35F1-4CF6-B2EA-69F7608459EC>.<7>"
+), NSLocalizedDescription=An SSL error has occurred and a secure connection to the server cannot be made., NSErrorFailingURLKey=https://launches.appsflyer.com/api/v6.10/iosevent?app_id=1541641406&buildnumber=6.10.0&timeincache=202021.1860&isCachedRequest=true, NSUnderlyingError=0x2802a0960 {Error Domain=kCFErrorDomainCFNetwork Code=-1200 "(null)" UserInfo={_kCFStreamPropertySSLClientCertificateState=0, _kCFNetworkCFStreamSSLErrorOriginalValue=-9816, _kCFStreamErrorDomainKey=3, _kCFStreamErrorCodeKey=-9816, _NSURLErrorNWPathKey=satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, dns}}, _kCFStreamErrorCodeKey=-9816}}}
+2023-03-23 00:47:32.808974+0600 ExampleAppsFlyer[24954:8218772] [AppsFlyerSDK] [afsdk-buffer-serial] [HTTP] Dealloc. Time elapsed for: `576-1679308733.371415` - 30.23488092422485
