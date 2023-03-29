@@ -20,12 +20,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        AppsFlyerLib.shared().deepLinkDelegate = self
-        AppsFlyerLib.shared().start()
         AppsFlyerLib.shared().appsFlyerDevKey = Environment.appsFlyerDevKey
         AppsFlyerLib.shared().appleAppID = Environment.appleAppID
-        AppsFlyerLib.shared().oneLinkCustomDomains = Environment.appsFlyerOneLinkCustomDomains
         AppsFlyerLib.shared().isDebug = true
+        AppsFlyerLib.shared().oneLinkCustomDomains = Environment.appsFlyerOneLinkCustomDomains
+        AppsFlyerLib.shared().deepLinkDelegate = self
         return true
     }
 
